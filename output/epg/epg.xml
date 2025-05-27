@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250527035554 +0800">
+<tv date="20250527102316 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -23931,6 +23931,18 @@
 	<programme channel="黑莓动画" start="20250527100800 +0800" stop="20250527114200 +0800">
 		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250527114200 +0800" stop="20250527124800 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250527124800 +0800" stop="20250527142600 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250527142600 +0800" stop="20250527155500 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250527155500 +0800" stop="20250527172300 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -23954,6 +23966,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250527100600 +0800" stop="20250527114300 +0800">
 		<title lang="zh">兄弟，请注意</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527114300 +0800" stop="20250527132800 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527132800 +0800" stop="20250527145000 +0800">
+		<title lang="zh">别叫我酒神</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250527145000 +0800" stop="20250527161900 +0800">
+		<title lang="zh">扎职2：江湖陌路</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
