@@ -2,3 +2,4 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
