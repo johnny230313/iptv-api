@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-01 18:12:48,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-07-02 06:11:01,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
@@ -10,12 +10,12 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://gxlive.snrtv.com/sxws-SD.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
 
 ☘️福建频道,#genre#
