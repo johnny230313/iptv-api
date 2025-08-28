@@ -1,20 +1,17 @@
 🕘️更新时间,#genre#
-2025-08-28 06:10:26,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-28 18:12:10,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://1.195.130.102:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-11,http://183.223.157.33:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://125.42.151.241:9901/tsfile/live/1010_1.m3u8
 
 📡卫视频道,#genre#
-湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-青海卫视,http://36.105.100.208:35455/itv/5000000006000040015.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-tBRUZ8.m3u8
-天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
 
 ☘️福建频道,#genre#
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
